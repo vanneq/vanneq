@@ -16,6 +16,8 @@ Flutter Mobile Developer from Almaty | Flutter & Dart | Kotlin
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
 
 ### DevOps & Tools
 ![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat&logo=codemagic&logoColor=white)
